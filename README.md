@@ -68,17 +68,17 @@ theme: jekyll-theme-architect
 Check the list of available themes you can use instead of jekyll-theme-architect. You can remove the theme line to go with the default theme.
 
 https://pages-themes.github.io/architect/
-jekyll-theme-cayman
-jekyll-theme-dinky
-jekyll-theme-hacker
-jekyll-theme-leap-day
-jekyll-theme-merlot
-jekyll-theme-midnight
-jekyll-theme-minimal
-jekyll-theme-modernist
-jekyll-theme-slate
-jekyll-theme-tactile
-jekyll-theme-time-machine
+jekyll-theme-cayman https://pages-themes.github.io/cayman/
+jekyll-theme-dinky https://pages-themes.github.io/dinky/
+jekyll-theme-hacker https://pages-themes.github.io/hacker/
+jekyll-theme-leap-day https://pages-themes.github.io/leap-day/
+jekyll-theme-merlot https://pages-themes.github.io/merlot/
+jekyll-theme-midnight https://pages-themes.github.io/midnight/
+jekyll-theme-minimal https://pages-themes.github.io/minimal/
+jekyll-theme-modernist https://pages-themes.github.io/modernist/
+jekyll-theme-slate https://pages-themes.github.io/slate/
+jekyll-theme-tactile https://pages-themes.github.io/tactile/
+jekyll-theme-time-machine https://pages-themes.github.io/time-machine/
 Commit the changes
 The system requires a commit message, type anything. In this case “Change theme” would be an appropriate commit message. After you commit, give the system some time to "build" your page (you can see the progress under Actions) and chek how your page looks like with the new theme. screenshot - enable Pages
 
