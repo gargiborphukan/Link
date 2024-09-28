@@ -1,3 +1,5 @@
+DEMO NOTES COMP 1238
+
 Number ROw CHaracters
 ! = exclamtion mark
 @ = at rate
